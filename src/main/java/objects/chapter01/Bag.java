@@ -1,4 +1,4 @@
-package codespitz83.ticket;
+package objects.chapter01;
 
 /**
  * Bag 클래스는 초대장(ticket), 티켓(invitation), 현금(amount)을 인스턴스 변수로 포함한다.

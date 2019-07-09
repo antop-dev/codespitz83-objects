@@ -1,4 +1,4 @@
-package codespitz83.ticket;
+package objects.chapter01;
 
 /**
  * 관람객은 소지품을 보관하기 위해 가방을 소지할 수 있다.

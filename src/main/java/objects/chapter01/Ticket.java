@@ -1,4 +1,4 @@
-package codespitz83.ticket;
+package objects.chapter01;
 
 /**
  * 티켓

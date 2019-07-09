@@ -1,4 +1,4 @@
-package codespitz83.ticket;
+package objects.chapter01;
 
 public class Theater {
     private TicketSeller ticketSeller;
