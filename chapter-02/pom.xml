@@ -10,6 +10,6 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>chapter-01</artifactId>
-    <name>객체, 설계</name>
+    <artifactId>chapter-02</artifactId>
+    <name>객체지향 프로그래밍</name>
 </project>
